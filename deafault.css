@@ -1,6 +1,18 @@
+
+
 .navbar-inverse .navbar-nav li > a {
  color: #FFF;
  margin-left:50px;
  margin-right:50px;
+}
+
+bg-1 {
+ background-position: right;
+      background-image: url(https://i.imgur.com/ghBLqu6.jpg);
+      
+img {
+margin: 0px;
+padding: 0 px;
+
 }
 
