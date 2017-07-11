@@ -1,18 +1,35 @@
+ .bg-1 {
+	  color: #fffcfc;
+      background-image: url("http://wallpapercave.com/wp/GlPjsVq.png") 
+      
+  }
+  
 
+  
+  .bg-2 { 
+      background-color: #474e5d; 
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; 
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; 
+      color: #fff;
+  }
+  
 
-.navbar-inverse .navbar-nav li > a {
+ 
+ .navbar-inverse .navbar-nav li > a {
  color: #FFF;
  margin-left:50px;
  margin-right:50px;
 }
 
-bg-1 {
- background-position: right;
-      background-image: url(https://i.imgur.com/ghBLqu6.jpg);
-      
-img {
-margin: 0px;
-padding: 0 px;
+.navbar-inverse .navbar-nav li > a:hover {
+ color: #696969;
+ }
 
-}
-
+	  
+  
