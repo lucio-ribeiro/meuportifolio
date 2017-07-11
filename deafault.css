@@ -1,4 +1,4 @@
- .bg-1 {
+.bg-1 {
 	  color: #fffcfc;
       background-image: url("http://wallpapercave.com/wp/GlPjsVq.png") 
       
@@ -19,6 +19,12 @@
       color: #fff;
   }
   
+  .bg-5 {
+  
+   background-color: #DCDCDC;
+   
+  }
+  
 
  
  .navbar-inverse .navbar-nav li > a {
@@ -30,6 +36,25 @@
 .navbar-inverse .navbar-nav li > a:hover {
  color: #696969;
  }
+ 
+ .thumbnail {
+    padding:  0 0 15px 0;
+    border: none;
+    border-radius: 0;
+ 
+}
 
-	  
-  
+.boxVideo {
+    position: relative;
+    padding-bottom: 56.25%; 
+    padding-top: 25px;
+    height: 0;
+    margin:0 auto;
+}
+.boxVideo iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+}
