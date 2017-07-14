@@ -60,10 +60,10 @@
 .boxVideo iframe {
     position: absolute;
     top: 0;
-    left: 19%;
-	right: 25%;
-    width: 65%;
-    height:	65%;
+    left: 15%;
+	right: 50%;
+    width: 70%;
+    height:	70%;
 }
 
 .nav {
@@ -76,3 +76,13 @@ padding-left:130px;
  ul {
      list-style-type:none
  }
+ 
+ 
+ 
+ 
+ 
+	  
+	.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
